@@ -4,10 +4,10 @@ Este repositório contém uma implementação de uma pilha ligada simples em Jav
 <h3>Estrutura do Projeto</h3>
 O projeto é composto por quatro classes:
 
-Pilha.java: Interface que define os métodos que uma pilha deve implementar.<br/>
-No.java: Classe que representa um nó da pilha.<br/>
-PilhaLigada.java: Classe que implementa a pilha ligada.<br/>
-Main.java: Classe que demonstra o uso da pilha ligada.<br/>
+<strong>Pilha.java:</strong> Interface que define os métodos que uma pilha deve implementar.<br/>
+<strong>No.java:</strong> Classe que representa um nó da pilha.<br/>
+<strong>PilhaLigada.java:</strong> Classe que implementa a pilha ligada.<br/>
+<strong>Main.java:</strong> Classe que demonstra o uso da pilha ligada.<br/>
 
 <h3>Métodos da Pilha</h3>
 A pilha ligada implementa os seguintes métodos:
@@ -31,6 +31,7 @@ pilha.imprimir(); // imprime "3 2 1"<br/>
 pilha.inverter();<br/>
 pilha.imprimir(); // imprime "1 2 3"<br/>
 
-
 <h3>Compilação e Execução</h3>
-Para compilar e executar o projeto, basta usar o comando javac para compilar as classes e java para executar a classe Main.
+Para compilar e executar o projeto, basta usar o comando javac para compilar as classes e java para executar a classe Main.<br/>
+Foi usado a <strong>IDE Intelij</strong> para codificar e compilar.<br/>
+Está sendo executado em <strong>Java JDK 17.0.9</strong>, para evitar problemas recomenda-se o uso da mesma versão.
