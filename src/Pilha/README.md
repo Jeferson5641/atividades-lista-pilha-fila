@@ -5,7 +5,7 @@ Este repositório contém uma implementação de uma pilha ligada simples em Jav
 O projeto é composto por quatro classes:
 
 <strong>Pilha.java:</strong> Interface que define os métodos que uma pilha deve implementar.<br/>
-<strong>No.java:</strong> Classe que representa um nó da pilha.<br/>
+<strong>Node.java:</strong> Classe que representa um nó da pilha.<br/>
 <strong>PilhaLigada.java:</strong> Classe que implementa a pilha ligada.<br/>
 <strong>Main.java:</strong> Classe que demonstra o uso da pilha ligada.<br/>
 
